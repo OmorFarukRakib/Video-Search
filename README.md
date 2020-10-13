@@ -1,3 +1,20 @@
+**This App was created with React.js.**
+
+Here anyone can search for a video with some keyword and I've used youtube API to get some videos corresponding to the search value and show them in a playable format. 
+A visual representation of the App shown below:
+
+![video_search](https://user-images.githubusercontent.com/38896577/95840679-47f50f80-0d66-11eb-8846-da3a1bc5d91d.gif)
+
+
+To use the App, Please visit the below link:
+
+[Click me to see the App in action!](https://omorfarukrakib.github.io/Video-Search/ "Vide-Search")
+
+
+
+
+## **To know more about react and stuff, read the below document**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
